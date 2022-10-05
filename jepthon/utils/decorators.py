@@ -158,7 +158,7 @@ def errors_handler(func):
             ftext += result
             pastelink = await paste_message(ftext)
             text = "**تقرير خطا ريبثون**\n\n"
-            link = "[هنا](https://t.me/Repthon_support)"
+            link = "[هنا](https://t.me/amiirrtx)"
             text += "إذا كنت تريد يمكنك الإبلاغ عن ذلك"
             text += f"- فقط قم بإعادة توجيه هذه الرسالة {link}.\n"
             text +="لا يتم تسجيل اي خطا فقط التاريخ والوقت\n\n"
