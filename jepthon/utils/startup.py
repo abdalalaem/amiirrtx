@@ -72,9 +72,9 @@ async def startupmessage():
         if BOTLOG:
             Config.CATUBLOGO = await jepiq.tgbot.send_file(
                 BOTLOG_CHATID,
-                "https://telegra.ph/file/3c595e91d922a8df1fc5c.jpg",
-                caption="⌯︙**بــوت ريبثون يـعـمـل بـنـجـاح**  ✅ \n⌯︙**قـنـاة الـسـورس**  :  @Repthon",
-                buttons=[(Button.url("كروب ريبثون", "https://t.me/Repthon_support"),)],
+                "https://telegra.ph/file/77bd89805fa10da0f431a.jpg",
+                caption="⌯︙**بــوت ريبثون يـعـمـل بـنـجـاح**  ✅ \n⌯︙**قـنـاة الـسـورس**  :  @amiirrtx",
+                buttons=[(Button.url("كروب ريبثون", "https://t.me/aaddr2"),)],
             )
     except Exception as e:
         LOGS.error(e)
