@@ -1,4 +1,4 @@
-#By @RR7PP
+#By @amiirrtx
 Girlan1 = (
                 "- 𝑎𝑠𝑜 𐇲.\n"
                 "- 𝑎𝑛𝑜 𐇲.\n"
