@@ -1,6 +1,6 @@
-<p align="center"><a href="https://t.me/Repthon"><img src="https://telegra.ph/file/77bd89805fa10da0f431a.jpg" width="5000"></a></p>
-<h1 align="center"><b>Repthon_USERBOT 🇮🇶 </b></h1>
-<h4 align="center">𓆰♥️🧸 𝐖𝐞𝐥𝐂𝐨𝐦𝐞 𝑻𝐨 𝙎𝙊𝙐𝙍𝘾𝞝_𝐑𝐄𝐏𝐓𝐇𝐎𝐍↷.</h4>
+<p align="center"><a href="https://t.me/aaddr2"><img src="https://telegra.ph/file/77bd89805fa10da0f431a.jpg" width="5000"></a></p>
+<h1 align="center"><amiirrtx_USERBOT 🇾🇪 </b></h1>
+<h4 align="center">𓆰♥️🧸 𝐖𝐞𝐥𝐂𝐨𝐦𝐞 𝑻𝐨 𝙎𝙊𝙐𝙍𝘾𝞝_امير ↷.</h4>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRallsthon%2FRalls&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Rallsthon/Ralls)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -29,6 +29,6 @@ published by the Free Software Foundation, either version 3 of the License, or
 
   
 ## Dev
-   <a href="https://t.me/ZQ_LO"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
+   <a href=https://t.me/amiraikb"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
 ✗ ¦ ↱𝐺𝑜𝑙 𝐷. 𝑅𝑜𝑔𝑒𝑟↲ ¦ ✗ 𐇮
 
